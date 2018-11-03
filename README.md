@@ -30,4 +30,11 @@ https://mrmccormack.github.io/bootstrap4-template-cdn/index.html
 
 
 
-# Learning Resurces
+# Learning Resources
+
+- https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons
+- Bootstrap on w3schoold
+- Favicon generator
+- Twitter Card thing
+
+---
